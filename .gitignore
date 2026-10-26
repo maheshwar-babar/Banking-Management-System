@@ -1,0 +1,14 @@
+*.log
+*.o
+/client
+/server
+/test_db
+bin/
+data/
+data/*.dat
+obj/
+tests/test_db
+tests/test_ops
+tests/test_services
+tests/test_store
+tests/test_usermgmt
